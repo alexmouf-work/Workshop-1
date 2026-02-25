@@ -1,3 +1,3 @@
 git add .
-git commit -m "Added .gitignore with desktop.ini"
+git commit -m "Cleared desktop.ini from repo"
 git push
