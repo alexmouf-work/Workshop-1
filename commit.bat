@@ -1,3 +1,3 @@
 git add .
-git commit -m "Cleared desktop.ini from repo"
+git commit -m "Added notes.md and began taking notes on the workshop"
 git push
