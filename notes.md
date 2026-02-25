@@ -44,4 +44,4 @@ Isolate dependencies between different projects.
 ## How to set it up?
 
 py -m venv [name]
-
+This creates a virtual environment with the name [name]
