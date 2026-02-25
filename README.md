@@ -1,1 +1,0 @@
-This is a repository to help me track the files that I produce during the duration of this five workshop optional module.
