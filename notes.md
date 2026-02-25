@@ -32,3 +32,16 @@ Github is more optimal for software.
 ## Common Practices
 
 Using R to collect, process and display data is an alternative, although common system as opposed to python.
+
+
+
+# Virtual Environments
+
+## Why Use Virtual Environments?
+
+Isolate dependencies between different projects.
+
+## How to set it up?
+
+py -m venv [name]
+

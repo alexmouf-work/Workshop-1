@@ -1,3 +1,3 @@
 git add .
-git commit -m "Created Virtual Environment"
+git commit -m "Hid virtual environment using gitignore"
 git push
